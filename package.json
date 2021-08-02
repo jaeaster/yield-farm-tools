@@ -1,0 +1,15 @@
+{
+  "name": "dino-comp",
+  "version": "1.0.0",
+  "description": "Automatically compound earnings from liquidity mining",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.2"
+  }
+}
